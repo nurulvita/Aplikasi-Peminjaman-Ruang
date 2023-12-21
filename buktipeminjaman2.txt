@@ -1,0 +1,42 @@
+===============================================
+============ BUKTI PEMINJAMAN RUANGAN =========
+===============================================
+Kode              : C402
+                                               
+Program Studi     : Sistem informasi
+                                               
+Mata Kuliah       : Statistika 
+                                               
+Tanggal           : 2023-04-28 18:00:00
+                                               
+Keperluan Kelas   : Kuliah
+                                               
+===============================================
+===============================================
+============ BUKTI PEMINJAMAN RUANGAN =========
+===============================================
+Kode              : D401
+                                               
+Program Studi     : Arsitektur
+                                               
+Mata Kuliah       : Kkp 
+                                               
+Tanggal           : 2023-04-29 12:00:00
+                                               
+Keperluan Kelas   : Kuliah
+                                               
+===============================================
+===============================================
+============ BUKTI PEMINJAMAN RUANGAN =========
+===============================================
+Kode              : C402
+                                               
+Program Studi     : Sistem informasi
+                                               
+Mata Kuliah       : Statistika 
+                                               
+Tanggal           : 2023-04-29 16:00:00
+                                               
+Keperluan Kelas   : Kuliah
+                                               
+===============================================
