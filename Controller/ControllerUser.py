@@ -6,7 +6,7 @@ from prettytable import PrettyTable
 
 class User(Database):
 
-    def __init__(self):
+    def __init__(self): #asskskskskksas
         super().__init__()
 
     def find_nim (self, nim): #mencari nim didatabase sesuai dengan nim yang diinputkan
